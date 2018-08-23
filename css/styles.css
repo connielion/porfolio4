@@ -1,0 +1,15 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans');
+
+.montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.opensans {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+.btn {
+  height: 44px;
+}
